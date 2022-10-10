@@ -1,4 +1,4 @@
-module github.com/xh-dev/XHClicker
+module github.com/xh-dev-go/XHClicker
 
 go 1.18
 
